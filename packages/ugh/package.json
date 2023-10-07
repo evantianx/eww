@@ -1,0 +1,12 @@
+{
+  "name": "ugh",
+  "version": "1.0.0",
+  "description": "Ugh",
+  "module": "index.ts",
+  "devDependencies": {
+    "shared": "workspace:*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
